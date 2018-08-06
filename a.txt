@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 First Fearch Branch
 branch 1
+=======
+First Fearch Branc
+Branch 2
+>>>>>>> branch2
