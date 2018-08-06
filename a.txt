@@ -1,2 +1,1 @@
-branch 1
-This is my branch1 merge
+Branch1 to Master
